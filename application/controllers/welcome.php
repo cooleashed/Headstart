@@ -25,7 +25,7 @@ class Welcome extends CI_Controller {
 
         $this->load->library('encrypt');
         $data = array(
-            'user_name' => 'tirthesh',
+            'user_name' => $this->,
             'password' => $this->encrypt->encode('tirthesh')
         );
 
