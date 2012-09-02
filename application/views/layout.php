@@ -6,6 +6,7 @@
         <link href="<?php echo base_url() . 'assets/css/style.css' ?>" rel="stylesheet"/>
     </head>
     <body>
+        <hr/>
         <div class="container-fluid">
             <div class="span12">
                 <div id="logo"></div>
@@ -18,9 +19,9 @@
                     Test
                 </div>
             </div>
-            <div class="span12">
-                Footer
-            </div>
         </div>
+        <div class="span12">
+                <div id="footer"></div>
+            </div>
     </body>
 </html>
