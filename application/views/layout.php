@@ -7,13 +7,10 @@
     </head>
     <body>
         <hr/>
-        <div class="container-fluid">
-            <div class="span12">
-                <div id="logo"></div>
-            </div>
-            <div class="row-fluid">
+        <div class="container">
+            <div class="row">
                 <div class="span4">
-                    svkmsdfovnfov ndfovuindfovindfovidfnvoinfvodfin foidnf oidfn voidfnv odin doifnvdoifvnsofivn dofivndlfvindflvdflinvdlfinvdlifnv dlfiv ndfvnidlfinvlifnvldfinvldifnvli
+                    Menu
                 </div>
                 <div class="span8">
                     Test
@@ -21,7 +18,7 @@
             </div>
         </div>
         <div class="span12">
-                <div id="footer"></div>
-            </div>
+            <div id="footer"></div>
+        </div>
     </body>
 </html>
