@@ -3,7 +3,7 @@
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
-class Welcome extends CI_Controller {
+class main extends CI_Controller {
 
     /**
      * Index Page for this controller.
@@ -21,23 +21,26 @@ class Welcome extends CI_Controller {
      * @see http://codeigniter.com/user_guide/general/urls.html
      */
     public function index() {
-        $this->load->view('form');
+        /* $this->load->view('form');
 
-        $this->load->library('encrypt');
-        $data = array(
-            'user_name' => 'tirthesh',
-            'password' => $this->encrypt->encode('tirthesh')
-        );
+          $this->load->library('encrypt');
+          $data = array(
+          'user_name' => 'tirthesh',
+          'password' => $this->encrypt->encode('tirthesh') */
 
-        
+
+
+
         //$this->input->post('user_name'),
         //$this->input->post('passcode')
-        $this->load->model('user_model');
-        $this->user_model->saveUser($data);
-        
-        echo 'success';
-        
+        //$this->load->model('user_model');
+        //$this->user_model->saveUser($data);
+        //echo 'success';
 //        echo base_url();
+    }
+
+    public function test() {
+        
     }
 
 }

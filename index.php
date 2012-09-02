@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title></title>
-    </head>
-    <body>
-        <?php
-        // put your code here
-        ?>
-    </body>
-</html>
-=======
 <?php
 
 /*
@@ -217,4 +203,3 @@ require_once BASEPATH.'core/CodeIgniter.php';
 
 /* End of file index.php */
 /* Location: ./index.php */
->>>>>>> branch 'master' of https://github.com/cooleashed/Headstart.git
