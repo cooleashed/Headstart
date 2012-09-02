@@ -12,11 +12,14 @@
             </div>
             <div class="row-fluid">
                 <div class="span4">
-                    Blah
+                    svkmsdfovnfov ndfovuindfovindfovidfnvoinfvodfin foidnf oidfn voidfnv odin doifnvdoifvnsofivn dofivndlfvindflvdflinvdlfinvdlifnv dlfiv ndfvnidlfinvlifnvldfinvldifnvli
                 </div>
                 <div class="span8">
                     Test
                 </div>
+            </div>
+            <div class="span12">
+                Footer
             </div>
         </div>
     </body>
