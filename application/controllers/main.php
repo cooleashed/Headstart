@@ -45,9 +45,6 @@ class main extends CI_Controller {
             $this->load->view('login');
         else {
             echo "logged in";
-            //$this->load->module('user_model');
-            //$this->user_model->user_login();          
-            //$this->load->view('');    
         }
     }
 
