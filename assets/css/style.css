@@ -1,0 +1,12 @@
+﻿/* 
+    Document   : style
+    Created on : Sep 2, 2012, 2:40:23 PM
+    Author     : shah
+    Description:
+        Purpose of the stylesheet follows.
+*/
+#logo{
+	background-image:url('../img/logo.png');
+	width:246px;
+	height:120px;
+}

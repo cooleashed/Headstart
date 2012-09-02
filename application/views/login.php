@@ -2,9 +2,8 @@
     <head>
         <title>Login</title>
         <script src="<?php echo base_url() . 'assets/js/bootstrap.min.js' ?>" ></script>
-        <link type="text/stylesheet" src='<?php echo base_url() . "assets/css/bootstrap-responsive.css"; ?>' />
-        <link type="text/stylesheet" src='<?php echo base_url() . "assets/css/bootstrap.min.css"; ?>' />
-    </head>
+        <link href="<?php echo base_url() . 'assets/css/bootstrap-responsive.css' ?>" rel="stylesheet"/>
+        <link href="<?php echo base_url() . 'assets/css/bootstrap.min.css' ?>" rel="stylesheet"/>    </head>
     <body>
         <form class="form-horizontal">
             <div class="control-group">

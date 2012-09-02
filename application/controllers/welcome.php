@@ -21,21 +21,20 @@ class Welcome extends CI_Controller {
      * @see http://codeigniter.com/user_guide/general/urls.html
      */
     public function index() {
-        $this->load->view('form');
+        $this->load->view('layout');
 
-        $this->load->library('encrypt');
-        $data = array(
-            'user_name' => $this->,
-            'password' => $this->encrypt->encode('tirthesh')
-        );
+//        $this->load->library('encrypt');
+//        $data = array(
+//            'user_name' => $this->,
+//            'password' => $this->encrypt->encode('tirthesh')
+//        );
 
         
         //$this->input->post('user_name'),
         //$this->input->post('passcode')
-        $this->load->model('user_model');
-        $this->user_model->saveUser($data);
-        
-        echo 'success';
+//        $this->load->model('user_model');
+//        $this->user_model->saveUser($data);
+
         
 //        echo base_url();
     }
