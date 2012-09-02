@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
     <head>
@@ -11,9 +10,7 @@
         ?>
     </body>
 </html>
-=======
 <?php
-
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
@@ -217,4 +214,3 @@ require_once BASEPATH.'core/CodeIgniter.php';
 
 /* End of file index.php */
 /* Location: ./index.php */
->>>>>>> branch 'master' of https://github.com/cooleashed/Headstart.git

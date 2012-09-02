@@ -18,9 +18,9 @@
                     Test
                 </div>
             </div>
-            <div class="span12">
-                Footer
-            </div>
         </div>
+        <div class="span12">
+                <div id="footer"></div>
+            </div>
     </body>
 </html>
